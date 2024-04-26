@@ -20,7 +20,6 @@ Criação de servidores e clientes baseados em Socket, com uso de Threads tanto 
 ### Arquivos
 
 * O arquivo **Loja.bak** contém uma cópia do banco utilizado. 
-* O arquivo **RelatorioPratica.pdf** contém informações e análise sobre os procedimentos executados.
 * Diretório **CadastroClient** aplicação Cliente.
 * Diretório **CadastroServer** aplicação Servidor.
 
